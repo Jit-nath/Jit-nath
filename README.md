@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jacqueline+Atae;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
-
-<h3 align="center">"I AM ALWAYS THERE TO HELP"</h3>
-<h3 align="center">- JIT D. -</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7ED16&center=true&vCenter=true&random=false&width=435&lines=HI+I+AM+JIT+;NICE+TO+MEET+YOU)](https://git.io/typing-svg)
+<h3 align="center">def love(): <br> return ???</h3>
+<h3 align="center">- JIT DEBNATH -</h3>
 
 <br>
 
@@ -43,7 +42,7 @@
 <div>
 <a href="https://www.instagram.com/_duke_legacy_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: jitdebnathinkolkata@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/jit-debnath-a4681a268/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ------
