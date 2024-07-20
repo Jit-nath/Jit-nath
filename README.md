@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7ED16&center=true&vCenter=true&random=false&width=435&lines=HI+I+AM+JIT+;NICE+TO+MEET+YOU)](https://git.io/typing-svg)
-<h3 align="center">def love(): <br> return ???</h3>
 <h3 align="center">- JIT DEBNATH -</h3>
 
 <br>
