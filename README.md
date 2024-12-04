@@ -6,14 +6,6 @@
 
 <h2 align="center">- JIT DEBNATH -</h2>
 
-<br>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit-nath&layout=donut-vertical&theme=nord" alt="Top Languages" />
-</div>
-
----
-
 ## 💻 Languages and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer Illustration" />
