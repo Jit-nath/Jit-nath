@@ -20,27 +20,46 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer Illustration" />
 
-### Known Languages:
-[<img height="48px" src="https://skillicons.dev/icons?i=c" alt="C" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="48px" src="https://skillicons.dev/icons?i=cpp" alt="C++" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img height="48px" src="https://skillicons.dev/icons?i=python" alt="Python" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img height="48px" src="https://skillicons.dev/icons?i=rust" alt="Rust" />](https://nodejs.org/en)
-[<img height="48px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />](https://react.dev/)
+### Known Languages
+<div>
+  <img height="48px" src="https://skillicons.dev/icons?i=c" alt="C" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=cpp" alt="C++" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=python" alt="Python" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=go" alt="Go" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</div>
 
-### Currently Learning:
-[<img height="48px" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />](https://www.tensorflow.org/)
-[<img height="48px" src="https://numpy.org/images/logo.svg" alt="NumPy" />](https://numpy.org/)
-[<img height="48px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />](https://www.mysql.com/)
+### Currently Learning
+<img height="48px" src="https://skillicons.dev/icons?i=rust" alt="Rust" />
 
-### Tools:
-[<img height="48px" src="https://cdn.iconscout.com/icon/free/png-512/free-visual-226058.png?f=webp&w=256" alt="Figma" />](https://www.figma.com/)
-[<img height="48px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />](https://code.visualstudio.com/)
-[<img height="48px" src="https://skillicons.dev/icons?i=github" alt="GitHub" />](https://github.com/)
-[<img height="48px" src="https://skillicons.dev/icons?i=git" alt="Git" />](https://git-scm.com/)
+### Frameworks & Libraries
+<div>
+  <img height="48px" src="https://skillicons.dev/icons?i=react" alt="React" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin-right: 10px;" />
+  <img height="48px" src="https://skillicons.dev/icons?i=tauri" alt="Tauri" />
+</div>
+
+
+### Tools
+<div>
+<img height="48px" src="https://skillicons.dev/icons?i=vscode" alt="VS code" />
+<img height="48px" src="https://skillicons.dev/icons?i=git" alt="git" />
+<img height="48px" src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+<img height="48px" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+</div>
+
+### Misclenious 
+<div>
+<img height="48px" src="https://skillicons.dev/icons?i=deno" alt="Deno" />
+<img height="48px" src="https://skillicons.dev/icons?i=regex" alt="Regex" />
+<img height="48px" src="https://skillicons.dev/icons?i=vite" alt="vite" />
+</div>
 
 ---
-
-## 📞 Contact Me
 
 <div align="center">
   <a href="https://www.instagram.com/_duke_legacy_/" target="_blank">
@@ -54,6 +73,4 @@
   </a>
 </div>
 
----
 
-**Credit**: [jacquelineatae](https://github.com/jacquelineatae)
