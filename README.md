@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&size=31&pause=1000&color=F7F7F7&background=FF19EA9E&center=true&vCenter=true&width=480&height=61&lines=Coding++Wizard;Lets+Get+Rusty;2+%3D+10;Coffee+with+JavaScript;Friday+Evenings;Cherry+Blossom)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&size=31&pause=1000&color=F7F7F7&center=true&vCenter=true&width=480&height=61&lines=Coding++Wizard;Lets+Get+Rusty;2+%3D+10;Coffee+with+JavaScript;Friday+Evenings;Cherry+Blossom)](https://git.io/typing-svg)
   
 </div>
 
@@ -9,9 +9,7 @@
 <br>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Jit-nath&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <p></p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit-nath&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit-nath&layout=donut-vertical&theme=nord" alt="Top Languages" />
 </div>
 
 ---
