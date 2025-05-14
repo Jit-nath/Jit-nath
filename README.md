@@ -11,12 +11,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computer Illustration" />
 
-### 👋 About Me
-
-* 🔭 I’m currently working on Higher
-* 🌱 I’m currently learning **AI**
-* 💬 Ask me about **C++, Python, Go, <br> JavaScript/TypeScript, Web Development**
-
 <br clear="right"/> 
 
 ## 🛠️ Skills & Technologies
