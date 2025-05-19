@@ -7,9 +7,10 @@
   <p>Passionate developer exploring the world of code, one line at a time.</p>
 
 </div>
-
+<div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="center" alt="Computer Illustration" />
-
+</div>
+  
 <br clear="right"/> 
 
 ## 🛠️ Skills & Technologies
