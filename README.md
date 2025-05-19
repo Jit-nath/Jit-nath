@@ -8,8 +8,7 @@
 
 </div>
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computer Illustration" />
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="center" alt="Computer Illustration" />
 
 <br clear="right"/> 
 
