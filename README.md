@@ -34,7 +34,6 @@ Here's a snapshot of the technologies I work with:
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=tauri" alt="Tauri" title="Tauri"/>
 </p>
 
 #### Tools & Environment:
@@ -46,7 +45,6 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=deno" alt="Deno" title="Deno"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=regex" alt="Regex" title="Regex"/>
 </p>
 
 #### Currently Exploring:
