@@ -4,7 +4,7 @@
 
   <h1>- JIT DEBNATH -</h1>
 
-  <p>Passionate developer exploring the world of code, one line at a time.</p>
+  <p>Passionate developer exploring the world of code, one line at a time</p>
 
 </div>
 <div align="center">
