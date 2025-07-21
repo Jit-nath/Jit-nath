@@ -72,7 +72,7 @@ Here's a snapshot of the technologies I work with:
   <a href="YOUR_TWITTER_URL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:YOUR_GMAIL_ADDRESS" target="_blank">
+  <a href="mailto:jit.nathdeb@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_DISCORD_INVITE_OR_PROFILE" target="_blank">
