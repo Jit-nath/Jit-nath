@@ -75,7 +75,7 @@ Here's a snapshot of the technologies I work with:
   <a href="mailto:jit.nathdeb@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>&nbsp;&nbsp;
-  <a href="YOUR_DISCORD_INVITE_OR_PROFILE" target="_blank">
+  <a href="jit_000" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_INSTAGRAM_URL" target="_blank">
