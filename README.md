@@ -62,23 +62,3 @@ Here's a snapshot of the technologies I work with:
 
 </div>
 
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:jit.nathdeb@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-  </a>&nbsp;&nbsp;
-  <a href="jit_000" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-</div>
