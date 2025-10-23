@@ -1,10 +1,8 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&size=31&pause=1000&color=F7F7F7&center=true&vCenter=true&width=480&height=61&lines=Coding++Wizard;Lets+Get+Rusty;2+%3D+10;Coffee+with+JavaScript;Friday+Evenings;Cherry+Blossom)](https://git.io/typing-svg)
+  <h1>Jit Debnath</h1>
 
-  <h1>- JIT DEBNATH -</h1>
-
-  <p>Passionate developer exploring the world of code, one line at a time</p>
+  <p>where <b>INDIAN</b> engineering shines</p>
 
 </div>
 <div align="center">
@@ -28,6 +26,7 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
+  <img height="40px" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/>
 </p>
 
 #### Frameworks & Libraries:
@@ -47,10 +46,6 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion"/>&nbsp;&nbsp;
 </p>
 
-#### Currently Exploring:
-<p>
-  <img height="40px" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/>
-</p>
 
 
 
