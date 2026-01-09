@@ -27,7 +27,6 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=kotlin" alt="Rust" title="Kotlin"/>&nbsp;&nbsp;
 </p>
 
 #### Frameworks & Libraries:
@@ -48,7 +47,6 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=deno" alt="Deno" title="Deno"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=androidstudio" alt="Notion" title="Android Studio"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" title="Github Actions"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=supabase" alt="supabase" title="Supabase"/>&nbsp;&nbsp;
 </p>
