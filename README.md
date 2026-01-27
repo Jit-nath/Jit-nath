@@ -2,7 +2,7 @@
 
   <h1>Jit Debnath</h1>
 
-  <p>where <b>INDIAN</b> engineering shines</p>
+  <p>I don’t fix code — I Stalin Sort it</p>
 
 </div>
 <div align="center">
