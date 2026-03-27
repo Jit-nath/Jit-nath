@@ -15,7 +15,7 @@
 
 Here's a snapshot of the technologies I work with:
 
-#### Languages:
+### Languages:
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=c" alt="C" title="C"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>&nbsp;&nbsp;
@@ -28,26 +28,39 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
 </p>
 
-#### Frameworks & Libraries:
+### Frameworks & Libraries:
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=express" alt="Next.js" title="Express"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch" title="Pytorch"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;
 </p>
 
-#### Tools & Environment:
+### Dev Tools:
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=deno" alt="Deno" title="Deno"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" title="Github Actions"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=supabase" alt="supabase" title="Supabase"/>&nbsp;&nbsp;
+</p>
+
+### Runtime & Infra:
+<p>
+  <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase"/>&nbsp;&nbsp;
+    <img height="40px" src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>&nbsp;&nbsp;
+</p>
+
+### Cloud & DevOps:
+<p>
+  <img height="40px" src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;&nbsp;
 </p>
 
 
