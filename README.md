@@ -26,7 +26,6 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/>&nbsp;&nbsp;
 </p>
 
 #### Frameworks & Libraries:
