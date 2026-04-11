@@ -51,7 +51,6 @@ Here's a snapshot of the technologies I work with:
 ### Runtime & Infra:
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase"/>&nbsp;&nbsp;
     <img height="40px" src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>&nbsp;&nbsp;
@@ -60,6 +59,7 @@ Here's a snapshot of the technologies I work with:
 ### Cloud & DevOps:
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS"/>&nbsp;&nbsp;
+    <img height="40px" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;&nbsp;
 </p>
 
