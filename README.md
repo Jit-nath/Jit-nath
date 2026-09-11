@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h1>Jit Debnath</h1>
-
   <p>I don’t fix code — I Stalin Sort it</p>
 
 </div>
