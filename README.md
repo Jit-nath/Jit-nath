@@ -63,14 +63,3 @@ Here's a snapshot of the technologies I work with:
   <img height="40px" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;&nbsp;
 </p>
 
-
-
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-  <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jit-nath&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true&area_color=30A3DC" height="300" alt="activity-graph graph" />
-
-</div>
-
